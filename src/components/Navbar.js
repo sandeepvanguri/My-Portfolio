@@ -44,7 +44,7 @@ function NavBar() {
               letterSpacing: 2,
             }}
           >
-            Sandeep Yadav 
+            Sandeep Vanguri 
           </span>
         </Navbar.Brand>
         <Navbar.Toggle
