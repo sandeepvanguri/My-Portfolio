@@ -30,6 +30,7 @@ function ResumeNew() {
             &nbsp;Download Resume
           </Button>
         </Row>
+        {/* #sandeepvanguri */}
 
         <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
